@@ -2,7 +2,7 @@
 <h3 align="center">A passionate software developer from Azerbaijan</h3>
 <img align="right" alt="Coding" width="400" src="https://gifdb.com/images/high/coding-animated-laptop-flow-stream-ja04010rm5o68zfk.gif">
 
-<p align="right"> <img src="https://komarev.com/ghpvc/?username=apome&label=Profile%20views&color=0e75b6&style=flat" alt="apome" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=apome&label=Profile%20views&color=0e75b6&style=flat" alt="apome" /> </p>
 
 - 🔭 I’m currently working on **CityOfMist**
 
