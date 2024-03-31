@@ -6,7 +6,7 @@
 
 - 🔭 I’m currently working on **CityOfMist**
 
-- 🌱 I’m currently learning **NodeJs**
+- 🌱 I’m currently learning **SprintBoot**
 
 - 🤝 I’m looking for help with **To step into the industry**
 
