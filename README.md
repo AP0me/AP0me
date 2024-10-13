@@ -4,11 +4,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=apome&label=Profile%20views&color=0e75b6&style=flat" alt="apome" /> </p>
 - I am working at <a href="https://britishcentre.az/">British Centre</a>
-- 🔭 I’m currently working on **CityOfMist**
+- 🔭 I’m currently working on **Inova.az**
 
-- 🌱 I’m currently learning **SprintBoot**
-
-- 🤝 I’m looking for help with **To step into the industry**
+- 🌱 I’m currently learning **Laravel**
 
 - 👨‍💻 All of my projects are available at [https://github.com/AP0me/](https://github.com/AP0me/)
 
