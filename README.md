@@ -3,7 +3,7 @@
 <img align="right" alt="Coding" width="400" src="https://gifdb.com/images/high/coding-animated-laptop-flow-stream-ja04010rm5o68zfk.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=apome&label=Profile%20views&color=0e75b6&style=flat" alt="apome" /> </p>
-- I am working at <a href="https://britishcentre.az/">British Centre</a>
+- I am working at <a rel="dofollow" href="https://britishcentre.az/">British Centre</a>
 - 🔭 I’m currently working on **Inova.az**
 
 - 🌱 I’m currently learning **Laravel**
