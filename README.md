@@ -12,7 +12,7 @@
 
 - 📝 I regularly write articles on [https://medium.com/@anarabdullazade2003](https://medium.com/@anarabdullazade2003)
 
-- 💬 Ask me about **NodeJs, ReactJs, MySQL, PostgreSQL and Flask.**
+- 💬 Ask me about **Lravel, PHP, NodeJs, ReactJs, MySQL, PostgreSQL and Flask.**
 
 - 📫 How to reach me **anar.abdullazada@ufaz.az**
 
