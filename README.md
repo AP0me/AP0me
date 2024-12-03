@@ -6,7 +6,7 @@
 - I am working at <a rel="dofollow" href="https://britishcentre.az/">British Centre</a>
 - 🔭 I’m currently working on **Inova.az**
 
-- 🌱 I’m currently learning **Laravel**
+- 🌱 I’m currently learning **Vue.js**
 
 - 👨‍💻 All of my projects are available at [https://github.com/AP0me/](https://github.com/AP0me/)
 
@@ -65,7 +65,7 @@
                 <li><a href="mailto:anar.abdullazada@ufaz.az">anar.abdullazada@ufaz.az</a></li>
                 <li>Baku, Absheron</li>
                 <li>Azerbaijan</li>
-                <li>anar-abdullazada-1b9332214</li>
+                <li>anar-abdullazada</li>
             </ul>
             <p dir="auto"><strong>PROFILE</strong></p>
             <p dir="auto">I am a skillful, curious, and hard-working Computer Science student, looking forward to my first work experience.</p>
