@@ -4,15 +4,13 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=apome&label=Profile%20views&color=0e75b6&style=flat" alt="apome" /> </p>
 - I am working at <a rel="dofollow" href="https://www.linkedin.com/company/navimax-app/">NaviMax</a>
-- 🔭 I’m currently working on **Inova.az**
+- 🔭 I’m currently working on ParkZone
 
 - 🌱 I’m currently learning **Vue.js**
 
 - 👨‍💻 All of my projects are available at [https://github.com/AP0me/](https://github.com/AP0me/)
 
-- 📝 I regularly write articles on [https://medium.com/@anarabdullazade2003](https://medium.com/@anarabdullazade2003)
-
-- 💬 Ask me about **Laravel, PHP, NodeJs, ReactJs, MySQL, PostgreSQL and Flask.**
+- 💬 Ask me about **Laravel, PHP, JavaScript, SQL.**
 
 - 📫 How to reach me **anar.abdullazada@ufaz.az**
 
