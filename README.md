@@ -6,7 +6,7 @@
 - I am working at <a rel="dofollow" href="https://www.linkedin.com/company/navimax-app/">NaviMax</a>
 - 🔭 I’m currently working on ParkZone
 
-- 🌱 I’m currently learning **Vue.js**
+- 🌱 I’m currently learning **MongoDB**
 
 - 👨‍💻 All of my projects are available at [https://github.com/AP0me/](https://github.com/AP0me/)
 
